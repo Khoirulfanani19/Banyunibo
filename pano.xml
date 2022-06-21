@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="5.2.5" start="node1" apprev="15998">
+  <panorama id="node1">
+    <input height="1520" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelbiashidpi="0.400" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" preload="0" width="1520"/>
+      <level height="760" predecode="0" preload="0" width="760"/>
+      <level height="380" predecode="1" preload="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="62.1" projection="4" tilt="0.03" pan="-176.45"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata tags="Foto_Fix" customnodeid="" datetime="28/12/2021 10:51" description="Candi Banyunibo dari bagian depan setelah memasuki pintu masuk" source="" info="" comment="" longitude="" title="Sisi Barat" author="" latitude="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" background="1" wordwrap="1" borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Bagian 2" skinid="ht_node" tilt="4.36" description="" pan="140.36" title="Sisi Selatan" url="{node3}"/>
+      <hotspot target="" id="Point01" skinid="ht_node" tilt="6.39" description="" pan="-135.89" title="Sisi Utara" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" type="crossdissolve" zoomout="0" enabled="0" blendtime="1" zoomin="0"/>
+    <control contextprojections="0" lockedkeyboard="0" hideabout="0" speedwheel="1" rubberband="0" lockedwheel="0" invertwheel="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="1520" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelbiashidpi="0.400" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" preload="0" width="1520"/>
+      <level height="760" predecode="0" preload="0" width="760"/>
+      <level height="380" predecode="1" preload="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="62.1" projection="4" tilt="-0.87" pan="-179.3"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata tags="Foto_Fix" customnodeid="" datetime="28/12/2021 10:55" description="Sisi Utara Candi Banyunibo yang tampak terdapat Kala-Makara" source="" info="" comment="" longitude="" title="Sisi Utara" author="" latitude="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" background="1" wordwrap="1" borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point01" skinid="ht_node" tilt="-2.83" description="" pan="130.56" title="Sisi Barat" url="{node1}"/>
+      <hotspot target="" id="Point02" skinid="ht_node" tilt="-1.93" description="" pan="-140.79" title="Sisi Timur" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" type="crossdissolve" zoomout="0" enabled="0" blendtime="1" zoomin="0"/>
+    <control contextprojections="0" lockedkeyboard="0" hideabout="0" speedwheel="1" rubberband="0" lockedwheel="0" invertwheel="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="1520" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelbiashidpi="0.400" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" preload="0" width="1520"/>
+      <level height="760" predecode="0" preload="0" width="760"/>
+      <level height="380" predecode="1" preload="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="62.1" projection="4" tilt="2.86" pan="177.06"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata tags="Foto_Fix" customnodeid="" datetime="28/12/2021 10:52" description="Sisi Selatan Candi Banyunibo yang tampak Kala-Makara serta terdapat tiga Candi Perwara" source="" info="" comment="" longitude="" title="Sisi Selatan" author="" latitude="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" background="1" wordwrap="1" borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point01" skinid="ht_node" tilt="-2.63" description="" pan="-129.66" title="Sisi Barat" url="{node1}"/>
+      <hotspot target="" id="Point02" skinid="ht_node" tilt="0.68" description="" pan="125.5" title="Sisi Timur" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" type="crossdissolve" zoomout="0" enabled="0" blendtime="1" zoomin="0"/>
+    <control contextprojections="0" lockedkeyboard="0" hideabout="0" speedwheel="1" rubberband="0" lockedwheel="0" invertwheel="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="1520" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelbiashidpi="0.400" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" preload="0" width="1520"/>
+      <level height="760" predecode="0" preload="0" width="760"/>
+      <level height="380" predecode="1" preload="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="80.9" projection="4" tilt="-9.53" pan="-174.5"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata tags="Foto_Fix" customnodeid="" datetime="28/12/2021 10:53" description="Sisi timur Candi Banyunibo yang tampak terdapat Kala-Makara serta tiga Candi Perwara" source="" info="" comment="" longitude="" title="Sisi Timur" author="" latitude="" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" background="1" wordwrap="1" borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" border="1" enabled="1" textcolor="0x000000" width="180"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point01" skinid="ht_node" tilt="0.73" description="" pan="-123.69" title="Sisi Selatan" url="{node3}"/>
+      <hotspot target="" id="Point02" skinid="ht_node" tilt="3.54" description="" pan="122.69" title="Sisi Utara" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" type="crossdissolve" zoomout="0" enabled="0" blendtime="1" zoomin="0"/>
+    <control contextprojections="0" lockedkeyboard="0" hideabout="0" speedwheel="1" rubberband="0" lockedwheel="0" invertwheel="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" contextfullscreen="0"/>
+  </panorama>
+</tour>
